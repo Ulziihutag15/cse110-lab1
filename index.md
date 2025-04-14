@@ -1,6 +1,6 @@
 # User Page
 
-### Name: **Ulziikhutag Davaasuren**
+### Name: Ulziikhutag Davaasuren
 
 ![Photo of me](self-photo.png)
 
@@ -12,15 +12,15 @@ I am a third year international student majoring in Computer Science. My goal he
 
 Here is the link to my [GitHub profile](https://github.com/Ulziihutag15).
 
-Link to name section [Name](#Name)
+Link to name section [Name](#user-page)
 
 [Link to README.md](README.md)
 
 My hobbies:
 
--Playing Video Games
--Playing Basketball
--Playing Guitar
+- Playing Video Games
+- Playing Basketball
+- Playing Guitar
 
 My favorite animes recently:
 
