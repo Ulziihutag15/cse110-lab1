@@ -10,7 +10,7 @@ I am a third year international student majoring in Computer Science. My goal he
 
 > Quoting Text
 
-`git status`
+`An example text for how code is demonstrated`
 
 Here is the link to my [GitHub profile](https://github.com/Ulziihutag15).
 
