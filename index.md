@@ -6,6 +6,8 @@
 
 I am a third year international student majoring in Computer Science. My goal here in this university is to succeed academically. As a programmer, I have some experiences of developing web and mobile applications.
 
+**bold-text**
+
 > Quoting Text
 
 `git status`
