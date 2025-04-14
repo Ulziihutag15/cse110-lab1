@@ -2,7 +2,7 @@
 
 ### Name: **Ulziikhutag Davaasuren**
 
-![Photo of me](electrocat.png)
+![Photo of me](self-photo.png)
 
 I am a third year international student majoring in Computer Science. My goal here in this university is to succeed academically. As a programmer, I have some experiences of developing web and mobile applications.
 
