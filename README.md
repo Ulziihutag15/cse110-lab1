@@ -3,3 +3,5 @@
 Ulziikhutag's User Page
 
 Favorite programming language: C
+
+[Link to user page](index.md)
